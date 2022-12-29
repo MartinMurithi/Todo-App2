@@ -1,2 +1,3 @@
 # Todo App2
- A simple todo app using android room library to perform the CRUD operations
+ A simple todo app using built using the MVVM app architecture and Room database to perofrm CRUD operations
+ 
